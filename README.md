@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jarne Dirken</h1>
 <h3 align="center">A 20 year old student from Thomas More University in Belgium</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarnedirken" alt="jarnedirken" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jarnedirken&label=Profile%20views&color=0e75b6&style=flat" alt="jarnedirken" /> </p>
 
 - 🔭 I’m currently working on [Dirken Digital](dirkendigital.be)
 
@@ -27,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarnedirken&show_icons=true&locale=en&layout=compact" alt="jarnedirken" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jarnedirken&show_icons=true&locale=en" alt="jarnedirken" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarnedirken&" alt="jarnedirken" /></p>
