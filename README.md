@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jarnedirken@gmail.com**
 
-- 📄 Know about my experiences [https://www.jarnedirken.be/assets/resume/resume.pdf](https://www.jarnedirken.be/assets/resume/resume.pdf)
+- 📄 Know about my experiences [Resume](https://www.jarnedirken.be/static/media/CV_Jarne_Dirken.d5880f1f8a1ae1ce74a2.pdf)
 
 - ⚡ Fun fact **I started programming since 2019**
 
