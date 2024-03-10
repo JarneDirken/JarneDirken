@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jarne Dirken</h1>
-<h3 align="center">A 20 year old student from Thomas More University in Belgium</h3>
+<h3 align="center">A 20 year old intern from Thomas More University in Belgium</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarnedirken&label=Profile%20views&color=0e75b6&style=flat" alt="jarnedirken" /> </p>
 
-- 🔭 I’m currently working on [Dirken Digital](dirkendigital.be)
+- 🔭 I’m currently working on [Administartion programme](https://github.com/JarneDirken/2024-AdministrationProject) and my internship assignment
 
 - 👨‍💻 All of my projects are available at [jarnedirken.be](jarnedirken.be)
 
