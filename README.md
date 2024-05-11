@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue.js, next.js, node.js and express.js**
 
-- 👨‍💻 All of my projects are available at [jarnedirken.be](jarnedirken.be)
+- 👨‍💻 All of my projects are available at [jarnedirken.be](https://jarnedirken.be)
 
 - 📫 How to reach me **jarnedirken@gmail.com**
 
