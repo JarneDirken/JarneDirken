@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarnedirken&label=Profile%20views&color=0e75b6&style=flat" alt="jarnedirken" /> </p>
 
-- 🔭 I’m currently working on [Administration program](https://github.com/JarneDirken/2024-AdministrationProject) and my [internship assignment](https://github.com/JarneDirken/2024-InternshipAssignment)
+- 🔭 I’m currently working on [Administration program](https://github.com/JarneDirken/2024-AdministrationProject)
 
 - 🌱 I’m currently learning **Vue.js, next.js, node.js and express.js**
 
