@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jarne Dirken</h1>
-<h3 align="center">A 21 year old graduate from Thomas More University in Belgium</h3>
+<h3 align="center">A 22 year old Software engineer from Belgium</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarnedirken&label=Profile%20views&color=0e75b6&style=flat" alt="jarnedirken" /> </p>
 
